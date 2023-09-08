@@ -1,2 +1,2 @@
-# Computacion_en_la_nube
-se crea este  repositorio  para realizar el  trabajo de programacion en la nube 
+# ciencia de datos
+i create tis repo to put a simple data science example about  how to use it 
